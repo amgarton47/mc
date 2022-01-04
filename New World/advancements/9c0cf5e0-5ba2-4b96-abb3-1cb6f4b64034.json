@@ -1626,6 +1626,7 @@
       "minecraft:snowy_slopes": "2021-12-28 02:18:43 -0600",
       "minecraft:old_growth_pine_taiga": "2021-12-26 07:11:26 -0600",
       "minecraft:taiga": "2021-12-26 03:52:59 -0600",
+      "minecraft:deep_ocean": "2022-01-04 06:47:21 -0600",
       "minecraft:frozen_river": "2021-12-27 05:16:50 -0600",
       "minecraft:sunflower_plains": "2021-12-28 02:06:22 -0600",
       "minecraft:birch_forest": "2021-12-24 15:43:05 -0600",
@@ -1865,15 +1866,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2022-01-03 22:52:55 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2022-01-03 22:19:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-01-03 22:52:55 -0600"
     },
     "done": true
   },
@@ -3841,6 +3842,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/white.png": "2022-01-04 06:42:51 -0600",
       "textures/entity/cat/black.png": "2021-12-26 08:40:17 -0600",
       "textures/entity/cat/calico.png": "2021-12-26 08:36:05 -0600"
     },
