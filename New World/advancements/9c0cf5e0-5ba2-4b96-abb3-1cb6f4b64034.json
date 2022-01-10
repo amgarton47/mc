@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-01-09 22:15:19 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-12-24 19:23:13 -0600"
@@ -932,6 +938,7 @@
       "minecraft:witch": "2021-12-27 03:48:07 -0600",
       "minecraft:wither_skeleton": "2022-01-09 18:31:16 -0600",
       "minecraft:ender_dragon": "2022-01-09 21:23:19 -0600",
+      "minecraft:shulker": "2022-01-09 22:15:10 -0600",
       "minecraft:piglin": "2021-12-28 19:02:09 -0600",
       "minecraft:stray": "2021-12-27 05:18:03 -0600",
       "minecraft:enderman": "2021-12-27 23:21:05 -0600",
@@ -3927,6 +3934,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-12-26 07:29:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-01-09 22:14:28 -0600"
     },
     "done": true
   },
