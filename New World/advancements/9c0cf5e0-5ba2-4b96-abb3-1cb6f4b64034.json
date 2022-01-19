@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2022-01-04 11:46:04 -0600"
@@ -530,6 +536,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-12-24 18:43:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
     },
     "done": true
   },
@@ -929,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2022-01-09 21:23:19 -0600"
@@ -1120,6 +1138,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2022-01-09 18:30:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
     },
     "done": true
   },
@@ -1336,6 +1360,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2021-12-24 15:42:26 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
     },
     "done": true
   },
@@ -1594,6 +1624,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2021-12-28 20:41:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
     },
     "done": true
   },
@@ -1977,6 +2013,12 @@
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2022-01-03 21:07:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
     },
     "done": true
   },
@@ -2421,6 +2463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2022-01-04 11:46:04 -0600"
@@ -2556,6 +2604,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-12-24 22:25:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
     },
     "done": true
   },
@@ -2883,6 +2937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2021-12-24 20:12:48 -0600"
@@ -3161,6 +3221,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-24 21:53:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
     },
     "done": true
   },
@@ -3608,6 +3674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-12-24 15:43:10 -0600"
@@ -3653,6 +3725,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2021-12-24 01:54:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
     },
     "done": true
   },
@@ -3884,6 +3962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2022-01-04 11:46:04 -0600"
@@ -3959,6 +4043,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2021-12-28 01:33:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2022-01-19 10:46:42 -0600"
     },
     "done": true
   },
